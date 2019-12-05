@@ -1,0 +1,41 @@
+.alinharRotulos {
+    text-align: right;
+  }
+  .alinhaBtns {
+    width:30%;
+    background-color: black;
+    color:white;
+    border:0px;
+    padding:5px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .carrinho {
+    width:300px; 
+    float:right;
+  }
+  .carrinho p {
+    display: inline;
+    align="center"
+    align="center"
+  }
+  table {
+    clear:both; 
+    background-color: #37474F;
+    border-radius: 100px; 
+    color:white;
+    padding:10px;
+    width:400px;
+    margin:auto;
+  }
+  caption {
+    color: #37474F;
+    font-weight: bold; 
+    font-size: 25px;
+  }
+  
+  .moioss {
+    width:300px; 
+    float:right;
+  }
+  }
